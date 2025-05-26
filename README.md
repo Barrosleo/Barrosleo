@@ -4,10 +4,14 @@ I'm a driven Cyber Security graduate and Junior SOC Analyst passionate about thr
 
 ## About Me
 
-- **SOC Operations & Threat Detection:** I deploy SIEM technologies and analytics to rapidly triage security alerts, perform root cause investigations, and remediate incidents.
-- **Cybersecurity Automation & Incident Response:** I develop tools in Python, Go, and Node.js that automate investigations, incident documentation, and forensic analysis.
-- **Cloud Security & Defense:** With expertise in Azure and Zero Trust models, I secure modern infrastructures and enhance cloud defenses.
-- **Continuous Learning & Collaboration:** I stay current with MITRE ATT&CK frameworks and best practices to innovate and drive impactful security improvements.
+- **SOC Operations & Threat Detection:**
+  I deploy SIEM technologies and analytics to rapidly triage security alerts, perform root cause investigations, and remediate incidents.
+- **Cybersecurity Automation & Incident Response:**
+  I develop tools in Python, Go, and Node.js that automate investigations, incident documentation, and forensic analysis.
+- **Cloud Security & Defense:**
+  With expertise in Azure and Zero Trust models, I secure modern infrastructures and enhance cloud defenses.
+- **Continuous Learning & Collaboration:**
+  I stay current with MITRE ATT&CK frameworks and best practices to innovate and drive impactful security improvements.
 
 ## Key Projects
 
