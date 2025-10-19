@@ -1,37 +1,53 @@
 # Hi there, I'm Leonardo Barros 👋
 
-I'm a driven Cyber Security graduate and Junior SOC Analyst passionate about threat detection, incident response, and security automation. My hands-on experience across SOC operations, cloud security, and forensic analysis helps me prioritize alerts, investigate incidents, and build automated tools that close information gaps and strengthen defenses.
+I'm a SOC Analyst passionate about threat detection, incident response, and security automation. I specialize in building modular, real-world tools that support SOC workflows, reduce alert fatigue, and strengthen cloud defenses. My hands-on experience spans SIEM engineering, forensic analysis, and Microsoft Defender integrations.
 
-## About Me
+---
 
-- **SOC Operations & Threat Detection:**
-  I deploy SIEM technologies and analytics to rapidly triage security alerts, perform root cause investigations, and remediate incidents.
-- **Cybersecurity Automation & Incident Response:**
-  I develop tools in Python, Go, and Node.js that automate investigations, incident documentation, and forensic analysis.
-- **Cloud Security & Defense:**
-  With expertise in Azure and Zero Trust models, I secure modern infrastructures and enhance cloud defenses.
-- **Continuous Learning & Collaboration:**
-  I stay current with MITRE ATT&CK frameworks and best practices to innovate and drive impactful security improvements.
+## 🔍 About Me
 
-## Key Projects
+- **SOC Operations & Threat Detection**  
+  I deploy SIEM technologies (Microsoft Sentinel, Defender XDR) to triage alerts, investigate incidents, and document findings using MITRE ATT&CK and Cyber Kill Chain frameworks.
 
-- **[forensic-timeline-dashboard](https://github.com/Barrosleo/forensic-timeline-dashboard)** (Go)  
-  Aggregates logs from multiple sources, normalizes timestamps, and visualizes forensic timelines via an interactive dashboard.
-  
-- **[incident-response-automation](https://github.com/Barrosleo/incident-response-automation)** (Node.js)  
-  Automates SOC playbooks by isolating endpoints, logging events, and generating detailed incident reports.
-  
-- **[cyber-threat-intel-aggregator](https://github.com/Barrosleo/cyber-threat-intel-aggregator)** (Python)  
-  Aggregates threat intelligence from open-source feeds and internal SIEM logs, correlating data to detect compromise events.
-  
-- **[Yara-Rules-Library](https://github.com/Barrosleo/Yara-Rules-Library)**  
-  A comprehensive collection of custom Yara rules for malware detection and digital forensics, complete with detailed docs and case studies.
-  
-- **[OSINT-Toolkit](https://github.com/Barrosleo/OSINT-Toolkit)** (Python)  
-  An educational resource and practical tool for OSINT investigations, aggregating scripts and API workflows to scrape and correlate public data.
+- **Security Automation & Incident Response**  
+  I build Python, Go, and Node.js tools that automate alert enrichment, report generation, and playbook execution—streamlining SOC operations and reducing response time.
 
-## Get In Touch
+- **Cloud Security & Posture Management**  
+  I validate Azure AD, Key Vault, and Defender configurations against best practices, applying Zero Trust principles to secure hybrid environments.
 
-- **LinkedIn:** [www.linkedin.com/in/leonardo-cybersecuritypro](https://www.linkedin.com/in/leonardo-cybersecuritypro)
+- **Continuous Learning & Collaboration**  
+  I actively contribute to open-source projects and stay current with threat intelligence, detection engineering, and SOC maturity models.
+
+---
+
+## 🧰 Key Projects
+
+- **DefenderHunt** *(Python, KQL)*  
+  Modular toolkit for threat hunting and incident response using Microsoft Defender telemetry. Includes MITRE mapping, automation scripts, and cloud config validation.
+
+- **SOC-Incident-Response-Simulator** *(Python)*  
+  Simulates alert ingestion, triage, and RCA workflows. Generates incident reports and visualizations for SOC analyst training.
+
+- **forensic-timeline-dashboard** *(Go)*  
+  Aggregates and normalizes logs to reconstruct forensic timelines. Displays interactive dashboards for incident analysis.
+
+- **incident-response-automation** *(Node.js)*  
+  Automates SOC playbooks by isolating endpoints, logging events, and sending notifications. Supports Slack/email integrations.
+
+- **cyber-threat-intel-aggregator** *(Python)*  
+  Correlates threat intel from open-source feeds and internal SIEM logs to detect compromise events.
+
+- **Yara-Rules-Library** *(YARA)*  
+  Custom rules for malware detection and digital forensics. Includes documentation, case studies, and sample test files.
+
+- **OSINT-Toolkit** *(Python)*  
+  Aggregates scripts and APIs for open-source investigations. Supports scraping, enrichment, and correlation of public data.
+
+---
+
+## 📫 Get In Touch
+
+- **LinkedIn:** [linkedin.com/in/leonardo-cybersecuritypro](https://www.linkedin.com/in/leonardo-cybersecuritypro)
 
 Thanks for stopping by!
+
