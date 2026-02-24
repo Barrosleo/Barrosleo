@@ -1,47 +1,49 @@
 # Hi there, I'm Leonardo Barros 👋
 
-I'm a SOC Analyst passionate about threat detection, incident response, and security automation. I specialize in building modular, real-world tools that support SOC workflows, reduce alert fatigue, and strengthen cloud defenses. My hands-on experience spans SIEM engineering, forensic analysis, and Microsoft Defender integrations.
+I'm a Cloud & Security Automation Engineer focused on building secure, automated workflows using **Python**, **Azure APIs**, and **CI/CD pipelines**. I design tools that integrate cloud services, enforce identity governance, and improve security posture through automation and modern engineering practices.
+
+My background in detection engineering gives me a strong understanding of how cloud environments behave under real-world threats, and I use that knowledge to build scalable, reliable, and secure cloud systems.
 
 ---
 
 ## 🔍 About Me
 
-- **SOC Operations & Threat Detection**  
-  I deploy SIEM technologies (Microsoft Sentinel, Defender XDR) to triage alerts, investigate incidents, and document findings using MITRE ATT&CK and Cyber Kill Chain frameworks.
+- **Cloud Automation & API Engineering**  
+  I build Python modules that integrate with Microsoft Graph, Defender APIs, and Azure services to automate cloud security workflows, enrich telemetry, and validate configurations.
 
-- **Security Automation & Incident Response**  
-  I build Python, Go, and Node.js tools that automate alert enrichment, report generation, and playbook execution—streamlining SOC operations and reducing response time.
+- **CI/CD & Infrastructure Engineering**  
+  I develop GitHub Actions pipelines to test, package, and deploy automation components. I work with Azure compute, networking, and identity to design secure, repeatable cloud environments.
 
-- **Cloud Security & Posture Management**  
-  I validate Azure AD, Key Vault, and Defender configurations against best practices, applying Zero Trust principles to secure hybrid environments.
+- **Cloud Security & Identity Governance**  
+  I implement automated posture checks across Azure AD and Microsoft 365, applying least‑privilege and Zero Trust principles to secure hybrid cloud environments.
 
-- **Continuous Learning & Collaboration**  
-  I actively contribute to open-source projects and stay current with threat intelligence, detection engineering, and SOC maturity models.
+- **Detection Engineering & Telemetry Analysis**  
+  I design detection‑as‑code logic, simulate incidents, and analyze cloud telemetry to understand adversary behavior and strengthen cloud visibility.
 
 ---
 
 ## 🧰 Key Projects
 
-- **DefenderHunt** *(Python, KQL)*  
-  Modular toolkit for threat hunting and incident response using Microsoft Defender telemetry. Includes MITRE mapping, automation scripts, and cloud config validation.
+- **Cloud & Platform Engineer Roadmap**  
+  A structured engineering journey documenting Azure labs, automation projects, and cloud fundamentals.
 
-- **SOC-Incident-Response-Simulator** *(Python)*  
-  Simulates alert ingestion, triage, and RCA workflows. Generates incident reports and visualizations for SOC analyst training.
+- **Hybrid Cloud Threat Prediction (ML + FastAPI + Docker + CI/CD)**  
+  A cloud‑ready machine‑learning system with API endpoints, containerization, and deployment pipelines.
 
-- **forensic-timeline-dashboard** *(Go)*  
-  Aggregates and normalizes logs to reconstruct forensic timelines. Displays interactive dashboards for incident analysis.
+- **Azure VM Deployment**  
+  Hands‑on Azure compute and networking project showcasing VM deployment, secure configuration, and automation scripts.
 
-- **incident-response-automation** *(Node.js)*  
-  Automates SOC playbooks by isolating endpoints, logging events, and sending notifications. Supports Slack/email integrations.
+- **DefenderHunt — Cloud Security Automation Framework**  
+  Modular automation toolkit integrating Microsoft Graph, Defender APIs, and cloud posture checks. Focused on Python automation and cloud‑aligned security workflows.
 
-- **cyber-threat-intel-aggregator** *(Python)*  
-  Correlates threat intel from open-source feeds and internal SIEM logs to detect compromise events.
+- **Incident Response Automation** *(Node.js / Python)*  
+  Automated playbooks for isolating endpoints, logging events, and sending notifications.
 
-- **Yara-Rules-Library** *(YARA)*  
-  Custom rules for malware detection and digital forensics. Includes documentation, case studies, and sample test files.
+- **Threat Intelligence Aggregator** *(Python)*  
+  API‑driven OSINT + telemetry correlation to identify potential compromise indicators.
 
-- **OSINT-Toolkit** *(Python)*  
-  Aggregates scripts and APIs for open-source investigations. Supports scraping, enrichment, and correlation of public data.
+- **Unified Kill Chain Analyzer** *(Python)*  
+  Event classification and attack flow mapping for investigation and threat modeling.
 
 ---
 
@@ -50,4 +52,3 @@ I'm a SOC Analyst passionate about threat detection, incident response, and secu
 - **LinkedIn:** [linkedin.com/in/leonardo-cybersecuritypro](https://www.linkedin.com/in/leonardo-cybersecuritypro)
 
 Thanks for stopping by!
-
