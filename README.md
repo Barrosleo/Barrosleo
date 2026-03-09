@@ -10,16 +10,16 @@ My background in detection engineering informs how I design cloud systems, I bui
 
 ## What I Work On
 
-### ☁️ Cloud Automation & API Engineering
+### - Cloud Automation & API Engineering
 I build Python‑based automation that integrates with **Microsoft Graph**, **Defender APIs**, and Azure services to manage identity, enrich telemetry, and enforce security controls programmatically.
 
-### CI/CD & Platform Engineering
+### - CI/CD & Platform Engineering
 I design **GitHub Actions pipelines** to validate, test, and ship automation safely. I focus on repeatable, auditable workflows that support secure cloud operations.
 
-### Identity & Cloud Security
+### - Identity & Cloud Security
 I implement automated identity governance and posture checks across **Azure Entra ID** and **Microsoft 365**, applying **Zero Trust** and **least‑privilege** principles in hybrid cloud environments.
 
-### Detection‑Driven Engineering
+### - Detection‑Driven Engineering
 I design detection‑as‑code logic, simulate incidents, and analyze cloud telemetry to understand adversary behavior and improve visibility, response, and resilience.
 
 ---
