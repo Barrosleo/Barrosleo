@@ -2,7 +2,7 @@
 
 I’m a **Cloud & Security Automation Engineer** focused on building **secure, scalable cloud systems** through automation, identity governance, and detection‑driven engineering.
 
-I design and build cloud‑native tooling using **Python**, **Azure APIs**, and **CI/CD pipelines**, with a strong emphasis on **identity‑first security**, **least‑privilege access**, and **operational reliability**.
+I design and build cloud‑native tooling using **Python**, **Azure APIs**, **Infrastructure as Code**, and **CI/CD pipelines**, with a strong emphasis on **identity‑first security**, **least‑privilege access**, and **operational reliability**.
 
 My background in detection engineering informs how I design cloud systems. I build with an understanding of how environments fail, how attackers operate, and how automation can reduce risk at scale.
 
@@ -14,7 +14,7 @@ My background in detection engineering informs how I design cloud systems. I bui
 I build Python‑based automation that integrates with **Microsoft Graph**, **Defender APIs**, and Azure services to manage identity, enrich telemetry, and enforce security controls programmatically.
 
 ### CI/CD & Platform Engineering
-I design **GitHub Actions pipelines** to validate, test, and ship automation safely. I focus on repeatable, auditable workflows that support secure cloud operations.
+I design **GitHub Actions pipelines** to validate, test, and ship automation and infrastructure safely. I focus on repeatable, auditable workflows that support secure cloud operations.
 
 ### Identity & Cloud Security
 I implement automated identity governance and posture checks across **Azure Entra ID** and **Microsoft 365**, applying **Zero Trust** and **least‑privilege** principles in hybrid cloud environments.
@@ -32,21 +32,21 @@ A modular Python toolkit integrating Microsoft Defender and Graph APIs to suppor
 ### Azure Identity Automation Lab
 Python‑based automation for Azure Entra ID identity operations, including user lifecycle management, group governance, and identity auditing using Microsoft Graph.
 
+### Terraform Azure Identity
+Opinionated Terraform modules for managing Azure Entra ID identity resources as infrastructure, with CI‑enforced formatting and validation.
+
 ### Cloud & Platform Engineer Roadmap
 A structured, hands‑on roadmap documenting my progression through cloud fundamentals, Azure labs, automation projects, and platform engineering concepts.
 
 ### Hybrid Cloud Threat Prediction
 A machine‑learning–based threat prediction system developed as part of my BSc Cyber Security dissertation, focused on modeling risk across hybrid cloud environments.
 
-### YARA Rules Library
-A curated collection of custom YARA rules with documentation and case studies, focused on malware detection and threat intelligence workflows.
-
 ---
 
 ## What I’m Focusing On Next
 
 - Expanding identity‑as‑code and cloud automation patterns  
-- Strengthening CI/CD pipelines for security tooling  
+- Strengthening CI/CD pipelines for security and platform tooling  
 - Designing reusable, platform‑oriented cloud components  
 
 ---
@@ -54,4 +54,5 @@ A curated collection of custom YARA rules with documentation and case studies, f
 ## Connect
 
 - **LinkedIn:** https://www.linkedin.com/in/leonardo-cybersecuritypro
+
 
