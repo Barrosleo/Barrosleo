@@ -26,19 +26,19 @@ I design detection‑as‑code logic, simulate incidents, and analyze cloud tele
 
 ## Selected Projects
 
-### **DefenderHunt — Cloud Security Automation Framework**
+### **1 - DefenderHunt — Cloud Security Automation Framework**
 A modular Python toolkit integrating Microsoft Defender and Graph APIs to support threat hunting, detection logic, and automated security workflows aligned with cloud environments.
 
-### **Azure Identity Automation Lab**
+### **2 - Azure Identity Automation Lab**
 Python‑based automation for Azure Entra ID identity operations, including user lifecycle management, group governance, and identity auditing using Microsoft Graph.
 
-### **Cloud & Platform Engineer Roadmap**
+### **3 - Cloud & Platform Engineer Roadmap**
 A structured, hands‑on roadmap documenting my progression through cloud fundamentals, Azure labs, automation projects, and platform engineering concepts.
 
-### **Hybrid Cloud Threat Prediction**
+### **4 - Hybrid Cloud Threat Prediction**
 A machine‑learning–based threat prediction system developed as part of my BSc Cyber Security dissertation, focused on modeling risk across hybrid cloud environments.
 
-### **YARA Rules Library**
+### **5 - YARA Rules Library**
 A curated collection of custom YARA rules with documentation and case studies, focused on malware detection and threat intelligence workflows.
 
 ---
