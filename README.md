@@ -1,54 +1,48 @@
-# Hi there, I'm Leonardo Barros 👋
+# 👋 Hi, I’m Leonardo Barros
 
-I'm a Cloud & Security Automation Engineer focused on building secure, automated workflows using **Python**, **Azure APIs**, and **CI/CD pipelines**. I design tools that integrate cloud services, enforce identity governance, and improve security posture through automation and modern engineering practices.
+I’m a **Cloud & Security Automation Engineer** focused on building **secure, scalable cloud systems** through automation, identity governance, and detection‑driven engineering.
 
-My background in detection engineering gives me a strong understanding of how cloud environments behave under real-world threats, and I use that knowledge to build scalable, reliable, and secure cloud systems.
+I design and build cloud‑native tooling using **Python**, **Azure APIs**, and **CI/CD pipelines**, with a strong emphasis on **identity‑first security**, **least‑privilege access**, and **operational reliability**.
 
----
-
-## 🔍 About Me
-
-- **Cloud Automation & API Engineering**  
-  I build Python modules that integrate with Microsoft Graph, Defender APIs, and Azure services to automate cloud security workflows, enrich telemetry, and validate configurations.
-
-- **CI/CD & Infrastructure Engineering**  
-  I develop GitHub Actions pipelines to test, package, and deploy automation components. I work with Azure compute, networking, and identity to design secure, repeatable cloud environments.
-
-- **Cloud Security & Identity Governance**  
-  I implement automated posture checks across Azure AD and Microsoft 365, applying least‑privilege and Zero Trust principles to secure hybrid cloud environments.
-
-- **Detection Engineering & Telemetry Analysis**  
-  I design detection‑as‑code logic, simulate incidents, and analyze cloud telemetry to understand adversary behavior and strengthen cloud visibility.
+My background in detection engineering informs how I design cloud systems — I build with an understanding of how environments fail, how attackers operate, and how automation can reduce risk at scale.
 
 ---
 
-## 🧰 Key Projects
+## 🔍 What I Work On
 
-- **Cloud & Platform Engineer Roadmap**  
-  A structured engineering journey documenting Azure labs, automation projects, and cloud fundamentals.
+### ☁️ Cloud Automation & API Engineering
+I build Python‑based automation that integrates with **Microsoft Graph**, **Defender APIs**, and Azure services to manage identity, enrich telemetry, and enforce security controls programmatically.
 
-- **Hybrid Cloud Threat Prediction (ML + FastAPI + Docker + CI/CD)**  
-  A cloud‑ready machine‑learning system with API endpoints, containerization, and deployment pipelines.
+### 🔁 CI/CD & Platform Engineering
+I design **GitHub Actions pipelines** to validate, test, and ship automation safely. I focus on repeatable, auditable workflows that support secure cloud operations.
 
-- **Azure VM Deployment**  
-  Hands‑on Azure compute and networking project showcasing VM deployment, secure configuration, and automation scripts.
+### 🔐 Identity & Cloud Security
+I implement automated identity governance and posture checks across **Azure Entra ID** and **Microsoft 365**, applying **Zero Trust** and **least‑privilege** principles in hybrid cloud environments.
 
-- **DefenderHunt — Cloud Security Automation Framework**  
-  Modular automation toolkit integrating Microsoft Graph, Defender APIs, and cloud posture checks. Focused on Python automation and cloud‑aligned security workflows.
-
-- **Incident Response Automation** *(Node.js / Python)*  
-  Automated playbooks for isolating endpoints, logging events, and sending notifications.
-
-- **Threat Intelligence Aggregator** *(Python)*  
-  API‑driven OSINT + telemetry correlation to identify potential compromise indicators.
-
-- **Unified Kill Chain Analyzer** *(Python)*  
-  Event classification and attack flow mapping for investigation and threat modeling.
+### 🛡️ Detection‑Driven Engineering
+I design detection‑as‑code logic, simulate incidents, and analyze cloud telemetry to understand adversary behavior and improve visibility, response, and resilience.
 
 ---
 
-## 📫 Get In Touch
+## 🧰 Selected Projects
 
-- **LinkedIn:** [linkedin.com/in/leonardo-cybersecuritypro](https://www.linkedin.com/in/leonardo-cybersecuritypro)
+### **DefenderHunt — Cloud Security Automation Framework**
+A modular Python toolkit integrating Microsoft Defender and Graph APIs to support threat hunting, detection logic, and automated security workflows aligned with cloud environments.
 
-Thanks for stopping by!
+### **Azure Identity Automation Lab**
+Python‑based automation for Azure Entra ID identity operations, including user lifecycle management, group governance, and identity auditing using Microsoft Graph.
+
+### **Cloud & Platform Engineer Roadmap**
+A structured, hands‑on roadmap documenting my progression through cloud fundamentals, Azure labs, automation projects, and platform engineering concepts.
+
+### **Hybrid Cloud Threat Prediction**
+A machine‑learning–based threat prediction system developed as part of my BSc Cyber Security dissertation, focused on modeling risk across hybrid cloud environments.
+
+### **YARA Rules Library**
+A curated collection of custom YARA rules with documentation and case studies, focused on malware detection and threat intelligence workflows.
+
+---
+
+## 📫 Connect
+
+- **LinkedIn:** https://www.linkedin.com/in/leonardo-cybersecuritypro
