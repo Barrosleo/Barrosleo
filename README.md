@@ -41,13 +41,16 @@ A structured, hands‑on roadmap documenting my progression through cloud fundam
 ### Hybrid Cloud Threat Prediction
 A machine‑learning–based threat prediction system developed as part of my BSc Cyber Security dissertation, focused on modeling risk across hybrid cloud environments.
 
+### BluePhoenix - Detection Engineering Lab
+A GitHub‑first detection engineering lab focused on MITRE ATT&CK–aligned detections, real endpoint telemetry, and security automation design using detection‑as‑code practices.
+
 ---
 
 ## What I’m Focusing On Next
 
-- Expanding identity‑as‑code and cloud automation patterns  
-- Strengthening CI/CD pipelines for security and platform tooling  
-- Designing reusable, platform‑oriented cloud components  
+- Expanding detection‑as‑code and telemetry‑driven security patterns  
+- Strengthening CI/CD pipelines for cloud security and platform tooling  
+- Designing reusable, identity‑first cloud components with IaC and automation
 
 ---
 
