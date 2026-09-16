@@ -1,61 +1,36 @@
-# Hi, I’m Leonardo Barros
+# Leonardo Barros
 
-I’m a **Cloud & Security Automation Engineer** focused on building **secure, scalable cloud systems** through automation, identity governance, and detection‑driven engineering.
+Cybersecurity graduate building hands-on expertise in SOC operations, threat detection, and security automation through lab projects.
 
-I design and build cloud‑native tooling using **Python**, **Azure APIs**, **Infrastructure as Code**, and **CI/CD pipelines**, with a strong emphasis on **identity‑first security**, **least‑privilege access**, and **operational reliability**.
+## What I Learn & Build
 
-My background in detection engineering informs how I design cloud systems. I build with an understanding of how environments fail, how attackers operate, and how automation can reduce risk at scale.
+**Security Automation**  
+Python-based automation exploring how to parse logs, enrich alerts, and automate security workflows using cloud APIs and detection logic.
 
----
+**Detection Engineering**  
+Hands-on labs experimenting with MITRE ATT&CK-aligned detection logic, cloud telemetry analysis, and incident response workflows.
 
-## What I Work On
+**Cloud Security Fundamentals**  
+Learning Azure identity, cloud posture checks, and automated security controls through practical labs and infrastructure-as-code exercises.
 
-### Cloud Automation & API Engineering
-I build Python‑based automation that integrates with **Microsoft Graph**, **Defender APIs**, and Azure services to manage identity, enrich telemetry, and enforce security controls programmatically.
+**Incident Response & Threat Hunting**  
+Lab scenarios exploring how to investigate incidents, simulate attacks, and design detection logic for cloud environments.
 
-### CI/CD & Platform Engineering
-I design **GitHub Actions pipelines** to validate, test, and ship automation and infrastructure safely. I focus on repeatable, auditable workflows that support secure cloud operations.
+## Lab Projects
 
-### Identity & Cloud Security
-I implement automated identity governance and posture checks across **Azure Entra ID** and **Microsoft 365**, applying **Zero Trust** and **least‑privilege** principles in hybrid cloud environments.
+- **DefenderHunt** - Exploring Python automation with Microsoft Defender APIs for detection and incident response
+- **bluephoenix-detection-lab** - Hands-on lab for MITRE ATT&CK mapping and detection design
+- **azure-identity-automation-lab** - Learning Azure Entra ID automation through Python and Microsoft Graph
+- **hybrid-cloud-threat-prediction** - Dissertation project combining ML and cloud threat modeling
+- **terraform-azure-identity** - Infrastructure-as-code lab for identity management
+- **cloud-platform-engineer-roadmap** - Structured learning journey through Azure and cloud fundamentals
 
-### Detection‑Driven Engineering
-I design detection‑as‑code logic, simulate incidents, and analyze cloud telemetry to understand adversary behavior and improve visibility, response, and resilience.
+## Focus
 
----
-
-## Selected Projects
-
-### DefenderHunt — Cloud Security Automation Framework
-A modular Python toolkit integrating Microsoft Defender and Graph APIs to support threat hunting, detection logic, and automated security workflows aligned with cloud environments.
-
-### Azure Identity Automation Lab
-Python‑based automation for Azure Entra ID identity operations, including user lifecycle management, group governance, and identity auditing using Microsoft Graph.
-
-### Terraform Azure Identity
-Opinionated Terraform modules for managing Azure Entra ID identity resources as infrastructure, with CI‑enforced formatting and validation.
-
-### Cloud & Platform Engineer Roadmap
-A structured, hands‑on roadmap documenting my progression through cloud fundamentals, Azure labs, automation projects, and platform engineering concepts.
-
-### Hybrid Cloud Threat Prediction
-A machine‑learning–based threat prediction system developed as part of my BSc Cyber Security dissertation, focused on modeling risk across hybrid cloud environments.
-
-### BluePhoenix - Detection Engineering Lab
-A GitHub‑first detection engineering lab focused on MITRE ATT&CK–aligned detections, real endpoint telemetry, and security automation design using detection‑as‑code practices.
+**Learning:** SOC operations, detection engineering fundamentals, cloud security automation  
+**Building:** Python projects, detection logic, security automation workflows  
+**Career Path:** SOC Analyst → Detection Engineer
 
 ---
 
-## What I’m Focusing On Next
-
-- Expanding detection‑as‑code and telemetry‑driven security patterns  
-- Strengthening CI/CD pipelines for cloud security and platform tooling  
-- Designing reusable, identity‑first cloud components with IaC and automation
-
----
-
-## Connect
-
-- **LinkedIn:** https://www.linkedin.com/in/leonardo-cybersecuritypro
-
-
+**Always learning. Open to connecting with security professionals in SOC operations and threat detection.**
