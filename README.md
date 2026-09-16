@@ -1,6 +1,6 @@
 # Leonardo Barros
 
-Cybersecurity graduate building hands-on expertise in SOC operations, threat detection, and security automation through lab projects.
+Cybersecurity professional building hands-on expertise in SOC operations, threat detection, and security automation through lab projects.
 
 ## What I Learn & Build
 
