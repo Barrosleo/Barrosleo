@@ -1,36 +1,16 @@
 # Leonardo Barros
 
-Cybersecurity professional building hands-on expertise in SOC operations, threat detection, and security automation through lab projects.
+Cyber Security graduate (BSc, University of West London, 2024), now building hands-on cloud skills.
 
-## What I Learn & Build
+## What I'm working on
+- **Linux and networking:** command line, permissions, processes, Bash scripting
+- **AWS:** studying for AWS Cloud Practitioner, then Solutions Architect Associate
+- **Python automation:** Microsoft Graph and identity tasks (see azure-identity-automation-lab)
 
-**Security Automation**  
-Python-based automation exploring how to parse logs, enrich alerts, and automate security workflows using cloud APIs and detection logic.
+## Projects
+- [azure-identity-automation-lab](https://github.com/Barrosleo/azure-identity-automation-lab): creates and manages Azure Entra ID users and groups with Python and Microsoft Graph
 
-**Detection Engineering**  
-Hands-on labs experimenting with MITRE ATT&CK-aligned detection logic, cloud telemetry analysis, and incident response workflows.
+New projects will appear here as I build them.
 
-**Cloud Security Fundamentals**  
-Learning Azure identity, cloud posture checks, and automated security controls through practical labs and infrastructure-as-code exercises.
-
-**Incident Response & Threat Hunting**  
-Lab scenarios exploring how to investigate incidents, simulate attacks, and design detection logic for cloud environments.
-
-## Lab Projects
-
-- **DefenderHunt** - Exploring Python automation with Microsoft Defender APIs for detection and incident response
-- **bluephoenix-detection-lab** - Hands-on lab for MITRE ATT&CK mapping and detection design
-- **azure-identity-automation-lab** - Learning Azure Entra ID automation through Python and Microsoft Graph
-- **hybrid-cloud-threat-prediction** - Dissertation project combining ML and cloud threat modeling
-- **terraform-azure-identity** - Infrastructure-as-code lab for identity management
-- **cloud-platform-engineer-roadmap** - Structured learning journey through Azure and cloud fundamentals
-
-## Focus
-
-**Learning:** SOC operations, detection engineering fundamentals, cloud security automation  
-**Building:** Python projects, detection logic, security automation workflows  
-**Career Path:** SOC Analyst → Detection Engineer
-
----
-
-**Always learning. Open to connecting with security professionals in SOC operations and threat detection.**
+## Contact
+[LinkedIn](https://www.linkedin.com/in/leonardo-cybersecuritypro/) · [DEV.to](https://dev.to/barrosleo)
